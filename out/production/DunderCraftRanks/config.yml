@@ -1,0 +1,7 @@
+ranks:
+  regional_manager: '&4&lREGIONAL MANAGER'
+  hr: '&b&lHR'
+  sales: '&a&lSALES'
+  quality_assurance: '&d&lQUALITY ASSURANCE'
+  receptionist: '&c&lRECEPTIONIST'
+chatformat: '%prefix% &e%name% &f%message%'
